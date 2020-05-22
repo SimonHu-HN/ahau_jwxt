@@ -3,7 +3,7 @@
 **Author: [SimonHu](https://github.com/SimonHu-HN)**
 
 [![Build with python3.5](https://img.shields.io/badge/build%20with-python%203+-green.svg)](https://www.python.org/downloads/release/python-350/)
-[![CodeFactor](https://www.codefactor.io/repository/github/simonhu-hn/wiki_emperor/badge/master)](https://www.codefactor.io/repository/github/simonhu-hn/wiki_emperor/overview/master)
+[![CodeFactor](https://www.codefactor.io/repository/github/simonhu-hn/ahau_jwxt/badge)](https://www.codefactor.io/repository/github/simonhu-hn/ahau_jwxt)
 
 ---
 
